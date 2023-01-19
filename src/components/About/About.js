@@ -14,13 +14,16 @@ function About() {
     <Container fluid className="about-section">
       <Particle />
       <Container>
-        <Row style={{ justifyContent: "center", padding: "10px" }}>
+        <Row  className="PrivateRow" style={{ justifyContent: "center", padding: "10px" }}>
           <Col
             md={7}
+            className="AboutFinal"
             style={{
               justifyContent: "center",
-              paddingTop: "30px",
-              paddingBottom: "50px",
+              // paddingTop: "30px",
+              // paddingBottom: "50px",
+
+
             }}
           >
             <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
@@ -38,7 +41,6 @@ function About() {
         </Row>
 
        <Hobbies />
-       <TrelloBoard />
         <Techstack />
         <Toolstack />
 

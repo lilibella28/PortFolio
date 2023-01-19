@@ -11,9 +11,10 @@ import {
   AiOutlineHome,
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
+  AiOutlineProject
 } from "react-icons/ai";
 
-import { CgFileDocument } from "react-icons/cg";
+import { CgFileDocument, CgClipboard } from "react-icons/cg";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -80,6 +81,16 @@ function NavBar() {
                 Projects
               </Nav.Link>
             </Nav.Item>
+            <Nav.Item>
+              <Nav.Link
+                as={Link}
+                to="/dailymvp"
+                onClick={() => updateExpanded(false)}
+              >
+                <AiOutlineProject style={{ marginBottom: "2px" }} /> Daily MVP
+              </Nav.Link>
+            </Nav.Item>
+          
 
             <Nav.Item>
               <Nav.Link

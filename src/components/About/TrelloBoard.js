@@ -6,7 +6,7 @@ function TrelloBoard(props)  {
       <div>
         <iframe
           title="Trello Board"
-          src={`https://trello.com/embed/b/BsJkWSUz/dailygoal&embedded=true`}
+          src={`https://trello.com/b/BsJkWSUz/dailygoal&embedded=true`}
           width="100%"
           height="600"
           frameBorder="0"

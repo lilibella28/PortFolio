@@ -38,7 +38,7 @@ function About() {
         </Row>
 
        <Hobbies />
-       {/* <TrelloBoard /> */}
+       <TrelloBoard />
         <Techstack />
         <Toolstack />
 

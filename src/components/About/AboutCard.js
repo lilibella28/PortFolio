@@ -13,7 +13,7 @@ function AboutCard() {
             
           </p>
           <p style={{ color: "white", fontSize:" 14px", fontWeight: '800' }}>
-            "A fun fact about me is that my family from a tiny town called Rio Mejicano,<br/> on the
+            "A fun fact about me is that my family from a tiny town called Rio Mejicano, on the
 Pacific coast of Colombia, until very recently wasn't in Google Map <br/> And if you wonder, no, there is no internet. Could you imagine?"{" "}
           </p>
           

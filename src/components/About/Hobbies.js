@@ -9,7 +9,7 @@ function Hobbies() {
 	return (
 		<Row style={{ justifyContent: 'center', paddingBottom: '50px' }}>
 			<h1 className="project-heading" style={{ paddingBottom: '20px' }}>
-				<strong className="purple">Hobbies</strong>
+				<strong className="purple">Hobbies </strong> & More
 			</h1>
 
 			<Col xs={4} md={2} className="tech-icons">

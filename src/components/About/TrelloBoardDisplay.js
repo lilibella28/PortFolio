@@ -23,8 +23,9 @@ function TrelloBoardDisplay() {
 						</h1>
 					</Col>
 
-					<TrelloBoard />
+					
 				</Row>
+				<TrelloBoard />
 			</Container>
 		</Container>
 	);

@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
 import myImg1 from '../../Assets/profile2.webp'
 import Tilt from "react-parallax-tilt";
+import Type from "./Type1";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -16,9 +17,10 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-             About<span className="purple"> Me </span>
-            </h1>
+            
+          <div style={{ padding: 50, textAlign: "left" }}>
+                <Type />
+              </div>
             <p className="home-about-body">
             Full stack engineer, passionate about <span className="purple wave wave1">solving problems</span> through technology.
              Varied technical background through self-education,

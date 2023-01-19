@@ -23,7 +23,7 @@ function Projects() {
               title="PicoMe"
               description="PicoMe is a browser-based application that utilizes mongoose to allow users to perform CRUD operations on a MongoDB database. PicoMe mission is to create a platform that allows users to share or request food assistance from the community without cost."
               ghLink="https://github.com/lilibella28/PicoMe"
-              demoLink="https://picome.herokuapp.com/orders"
+              demoLink="https://picome-production.up.railway.app/orders"
             />
           </Col>
 

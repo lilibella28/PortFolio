@@ -6,10 +6,13 @@ function Type() {
     <Typewriter
       options={{
         strings: [
+          "Hello World!",
           "Software Engineer",
           "Problem Solver",
           "Bilingual",
-          "Computer Science Student",
+          "console.log('Hello World')",
+          "<h1>print('Hola Mundo')",
+          "System.out.println('Hello World!')",
         ],
         autoStart: true,
         loop: true,

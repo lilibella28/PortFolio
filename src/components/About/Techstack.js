@@ -5,7 +5,7 @@ import { SiPytorch, SiFirebase } from 'react-icons/si';
 
 function Techstack() {
 	return (
-		<Row style={{ justifyContent: 'center', paddingBottom: '50px' }}>
+		<Row style={{ justifyContent: 'center', paddingBottom: '20px' }}>
 			<h1 className="project-heading" style={{ paddingBottom: '20px' }}>
 				<strong className="purple"> Language & Frameworks</strong>
 			</h1>

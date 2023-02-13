@@ -10,7 +10,7 @@ import {
 
 function Toolstack() {
   return (
-    <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
+    <Row style={{ justifyContent: "center", paddingBottom: "20px" }}>
       <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
         <strong className="purple">Management & Deployment</strong>
       </h1>

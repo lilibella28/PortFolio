@@ -14,7 +14,10 @@ function About() {
     <Container fluid className="about-section">
       <Particle />
       <Container>
-        <Row  className="PrivateRow" style={{ justifyContent: "center", padding: "10px" }}>
+      
+            <img style={{width:'300px'}} src={laptopImg} alt="about" className="img-fluid" />
+        
+        <Row  className="PrivateRow" style={{ justifyContent: "center", padding: "5px" }}>
           <Col
             md={7}
             className="AboutFinal"
@@ -26,18 +29,9 @@ function About() {
 
             }}
           >
-            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-              <strong className="purple">Lilibeht Montano</strong>
-            </h1>
             <Aboutcard />
           </Col>
-          <Col
-            md={5}
-            style={{ paddingTop: "30px", paddingBottom: "30px" }}
-            className="about-img"
-          >
-            <img src={laptopImg} alt="about" className="img-fluid" />
-          </Col>
+         
         </Row>
 
        <Hobbies />

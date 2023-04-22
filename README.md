@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lilibeht Montano</h1>
-<h3 align="center">As a full-stack engineer, I have a passion for solving problems with technology. My technical skills have been honed through self-education, college courses, practical projects, internships, and Bootcamp training. I bring a strong work ethic, effective planning and prioritization abilities, a team-oriented mindset, and excellent communication skills.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lilibella28" alt="lilibella28" /></a> </p>
+<h1 align="center">Hi 👋, I'm Lili</h1>
+<h3 align="center">I have a passion for solving problems with technology. My technical skills have been honed through self-education, college courses, practical projects, internships, and Bootcamp training. I bring a strong work ethic, effective planning and prioritization abilities, a team-oriented mindset, and excellent communication skills.</h3>
 
 - 🔭 I’m currently working on [Picome React](https://github.com/lilibella28/PicoMe-React-)
 
@@ -9,8 +7,11 @@
 
 - 📫 How to reach me **lilimontano58@gmail.com**
 
+- 📄 Know about my experiences [https://raw.githubusercontent.com/lilibella28/PortFolio/main/src/Assets/LilibehtAMontanoResumePortFolio.pdf](https://raw.githubusercontent.com/lilibella28/PortFolio/main/src/Assets/LilibehtAMontanoResumePortFolio.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/lilibella28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lilibella28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lilibella28&show_icons=true&locale=en&layout=compact" alt="lilibella28" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lilibella28&show_icons=true&locale=en" alt="lilibella28" /></p>
-

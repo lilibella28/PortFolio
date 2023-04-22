@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lili</h1>
-<h3 align="center">I have a passion for solving problems with technology. My technical skills have been honed through self-education, college courses, practical projects, internships, and Bootcamp training. I bring a strong work ethic, effective planning and prioritization abilities, a team-oriented mindset, and excellent communication skills.</h3>
+
 
 - 🔭 I’m currently working on [Picome React](https://github.com/lilibella28/PicoMe-React-)
 

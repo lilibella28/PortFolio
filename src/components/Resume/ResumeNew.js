@@ -24,7 +24,7 @@ function ResumeNew() {
 				<Row style={{ justifyContent: 'center', position: 'relative' }}>
 					<Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: '250px' }}>
 						<AiOutlineDownload />
-						&nbsp;Download CV
+						&nbsp;Download Resume
 					</Button>
 				</Row>
 
@@ -35,7 +35,7 @@ function ResumeNew() {
 				</Row>
 
 				<Row style={{ justifyContent: 'center', position: 'relative' }}>
-					<Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: '250px' }}></Button>
+					<Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: '250px' }}>Schedule Interview</Button>
 				</Row>
 			</Container>
 		</div>

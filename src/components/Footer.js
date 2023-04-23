@@ -8,8 +8,8 @@ function Footer() {
 		<Container fluid className="footer">
 			<Row>
 				<Col md="4" className="footer-copywright">
-					{/* <h3>Designed and Developed by Soumyajit Behera</h3> */}
-					<h3>Lilibeht Montano </h3>
+				
+					<h3>Lilibeth Montano </h3>
 				</Col>
 				<Col md="4" className="footer-copywright">
 					<h3> Software engineer</h3>

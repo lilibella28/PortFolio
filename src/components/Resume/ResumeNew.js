@@ -5,6 +5,7 @@ import Particle from '../Particle';
 import pdf from '../../Assets/../Assets/LilibehtAMontanoResumePortFolio.pdf';
 import { AiOutlineDownload } from 'react-icons/ai';
 import { Document, Page, pdfjs } from 'react-pdf';
+import Calendly  from '../Calendly/Calendly'
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
@@ -35,7 +36,7 @@ function ResumeNew() {
 				</Row>
 
 				<Row style={{ justifyContent: 'center', position: 'relative' }}>
-					<Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: '250px' }}>Schedule Interview</Button>
+					<Calendly />
 				</Row>
 			</Container>
 		</div>

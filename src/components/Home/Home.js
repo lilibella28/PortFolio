@@ -8,6 +8,7 @@ import Github from '../About/Github';
 import TechStack from '../About/Techstack';
 import Toolstack from '../About/Toolstack';
 import Projects from '../Projects/Projects.js';
+import Calendly from '../Calendly/Calendly'
 function Home() {
 	return (
 		<section>
@@ -55,7 +56,9 @@ function Home() {
 
 					<Toolstack />
 				</Container>
+				<Calendly />
 			</Container>
+			
 		</section>
 	);
 }

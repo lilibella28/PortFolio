@@ -8,6 +8,7 @@ import Hobbies from "./Hobbies";
 import TrelloBoard from "./TrelloBoard"
 import laptopImg from "../../Assets/aboutme.webp";
 import Toolstack from "./Toolstack";
+import Calendly from '../Calendly/Calendly';
 
 function About() {
   return (
@@ -40,6 +41,7 @@ function About() {
 
         <Github />
       </Container>
+      <Calendly />
     </Container>
   );
 }

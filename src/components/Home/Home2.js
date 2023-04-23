@@ -1,6 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
 import myImg1 from '../../Assets/profile2.webp'
 import Tilt from "react-parallax-tilt";
 import {
@@ -35,6 +34,7 @@ function Home2() {
         </Row>
        
       </Container>
+     
     </Container>
   );
 }

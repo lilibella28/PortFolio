@@ -25,7 +25,7 @@ function Home() {
 
 							<h1 className="heading-name">
 								I'm
-								<strong className="main-name"> Lilibeth Montano</strong>
+								<strong className="main-name"> Lili Montano</strong>
 							</h1>
 							<p className="home-about-body">
 								Full stack engineer, passionate about{' '}

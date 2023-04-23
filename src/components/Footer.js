@@ -9,7 +9,7 @@ function Footer() {
 			<Row>
 				<Col md="4" className="footer-copywright">
 				
-					<h3>Lilibeth Montano </h3>
+					<h3>Lili Montano </h3>
 				</Col>
 				<Col md="4" className="footer-copywright">
 					<h3> Software engineer</h3>

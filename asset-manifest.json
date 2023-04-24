@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.bda277b1.css",
-    "main.js": "/PortFolio/static/js/main.0aab726a.js",
+    "main.js": "/PortFolio/static/js/main.8d8a210d.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortFolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/mancala.png": "/PortFolio/static/media/mancala.c9e14733bc3defcee01c.png",
     "static/media/LilibehtAMontanoResumePortFolio.pdf": "/PortFolio/static/media/LilibehtAMontanoResumePortFolio.eaa67b988814ce53bf6b.pdf",
@@ -19,11 +19,11 @@
     "static/media/pre.svg": "/PortFolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/PortFolio/index.html",
     "main.bda277b1.css.map": "/PortFolio/static/css/main.bda277b1.css.map",
-    "main.0aab726a.js.map": "/PortFolio/static/js/main.0aab726a.js.map",
+    "main.8d8a210d.js.map": "/PortFolio/static/js/main.8d8a210d.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortFolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bda277b1.css",
-    "static/js/main.0aab726a.js"
+    "static/js/main.8d8a210d.js"
   ]
 }

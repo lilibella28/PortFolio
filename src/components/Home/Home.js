@@ -2,9 +2,7 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import Picture2 from '../../Assets/profile2.webp';
 import Particle from '../Particle';
-import Home2 from './Home2';
 import Type from './Type';
-import Github from '../About/Github';
 import TechStack from '../About/Techstack';
 import Toolstack from '../About/Toolstack';
 import Projects from '../Projects/Projects.js';
@@ -51,7 +49,7 @@ function Home() {
 
 					<TechStack />
 					<br></br>
-					<Github />
+			
 					<br></br>
 
 					<Toolstack />

@@ -31,7 +31,7 @@ function ResumeNew() {
 					</Document>
 					</Col>
 
-					<Col><Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: '250px', marginTop: '10px' }}>
+					<Col><Button variant="primary" href={pdf} target="_blank" style={{ maxWidth: '250px', marginTop: '20px', backgrroundColor: "purple" }}>
 						<AiOutlineDownload />
 						&nbsp;Download Resume
 					</Button> </Col>

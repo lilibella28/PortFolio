@@ -12,7 +12,7 @@ function Type() {
           "Bilingual",
           "console.log('Hello World')",
           "<h1>print('Hola Mundo')",
-          "System.out.println('Hello World!')",
+          "std::cout << 'Hello World' << std::endl;"
         ],
         autoStart: true,
         loop: true,

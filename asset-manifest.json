@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/PortFolio/static/css/main.bda277b1.css",
-    "main.js": "/PortFolio/static/js/main.86c6ddbd.js",
+    "main.js": "/PortFolio/static/js/main.1cf413ff.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortFolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/mancala.png": "/PortFolio/static/media/mancala.c9e14733bc3defcee01c.png",
-    "static/media/LilibehtAMontanoResumePortFolio.pdf": "/PortFolio/static/media/LilibehtAMontanoResumePortFolio.eaa67b988814ce53bf6b.pdf",
     "static/media/picome.png": "/PortFolio/static/media/picome.add9058066d14a1d28c5.png",
+    "static/media/LilibehtAMontanoResumePortFolio.pdf": "/PortFolio/static/media/LilibehtAMontanoResumePortFolio.71fbc5becdce10eb3132.pdf",
     "static/media/hobbies2.webp": "/PortFolio/static/media/hobbies2.d06e7b287217e391996e.webp",
     "static/media/hobbies1.webp": "/PortFolio/static/media/hobbies1.970ea943360554ba2401.webp",
     "static/media/hobbies4.webp": "/PortFolio/static/media/hobbies4.0df5d58675220a34e131.webp",
+    "static/media/musicdance.webp": "/PortFolio/static/media/musicdance.78c0b962b6d20cf5fa09.webp",
     "static/media/hobbies3.webp": "/PortFolio/static/media/hobbies3.ee9f207934334304d9b1.webp",
     "static/media/profile2.webp": "/PortFolio/static/media/profile2.b3b369a6a95caf4bec59.webp",
     "static/media/aboutme.webp": "/PortFolio/static/media/aboutme.e6cfe2b20b16610adcb0.webp",
@@ -18,11 +19,11 @@
     "static/media/pre.svg": "/PortFolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/PortFolio/index.html",
     "main.bda277b1.css.map": "/PortFolio/static/css/main.bda277b1.css.map",
-    "main.86c6ddbd.js.map": "/PortFolio/static/js/main.86c6ddbd.js.map",
+    "main.1cf413ff.js.map": "/PortFolio/static/js/main.1cf413ff.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortFolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bda277b1.css",
-    "static/js/main.86c6ddbd.js"
+    "static/js/main.1cf413ff.js"
   ]
 }

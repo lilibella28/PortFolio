@@ -5,7 +5,7 @@ import Particle from '../Particle';
 import editor from '../../Assets/Projects/jobtracker.png';
 import picome from '../../Assets/Projects/picome.png';
 import mancala from '../../Assets/Projects/mancala.png';
-
+import music from '../../Assets/Projects/musicdance.webp';
 function Projects() {
 	return (
 		<Container fluid className="project-section">
@@ -23,7 +23,18 @@ function Projects() {
 							title="PicoMe"
 							description="PicoMe is a browser-based application that utilizes mongoose to allow users to perform CRUD operations on a MongoDB database. PicoMe mission is to create a platform that allows users to share or request food assistance from the community without cost."
 							ghLink="https://github.com/lilibella28/PicoMe"
-							demoLink="https://picome-production.up.railway.app/orders"
+							
+						/>
+					</Col>
+
+					<Col md={4} className="project-card">
+						<ProjectCard
+							imgPath={music}
+							isBlog={false}
+							title="PlayListPro"
+							description="PlaylistPro is a C++ project that empowers music enthusiasts to create and manage personalized playlists effortlessly, providing a seamless and enjoyable experience. With intuitive features and a user-friendly interface, it offers a dynamic solution for curating and enjoying your favorite tunes."
+							ghLink="https://github.com/lilibella28/OOP-Music-Player"
+							
 						/>
 					</Col>
 
@@ -34,7 +45,7 @@ function Projects() {
 							title="Mancala"
 							description="The mancala games are a family of two-player turn-based strategy board games played with small stones, beans, or seeds and rows of holes or pits in the earth, a board or other playing surface. The objective is usually to capture all or some set of the opponent's pieces."
 							ghLink="https://github.com/lilibella28/MancalaGame"
-							demoLink="https://lilibella28.github.io/MancalaGame/"
+							
 						/>
 					</Col>
 
@@ -45,9 +56,10 @@ function Projects() {
 							title="Job Tracker"
 							description="This mobile responsive application is meant as a Job Application tracking tool. Helping new grads, career transitioners, and veterans in their prospective fields keep track of their submitted applications."
 							ghLink="https://github.com/lilibella28/Job-Tracker"
-							demoLink="https://job-tracker-production.up.railway.app/"
+							
 						/>
 					</Col>
+					
 				</Row>
 			</Container>
 		</Container>
